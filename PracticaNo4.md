@@ -19,7 +19,24 @@ Resolver los ejercicios de transformación mediante números complejos
 Conocer los fundamentos básicos de los números complejos y comprobar las condiciones necesarias para que se cumpla.
 
 2.-**MARCO TEORICO**
- 
+
+NÚMEROS COMPLEJOS Y FASORES EN POLAR Y FORMA RECTANGULAR
+
+Las senoides se expresan fácilmente en términos de fasores, con los que es más cómodo trabajar que con las funciones seno y coseno. Un fasor es un número complejo que representa la amplitud y la fase de una senoide.
+
+Los fasores brindan un medio sencillo para analizar circuitos lineales excitados por fuentes senoidales; las soluciones de tales circuitos serían impracticables de otra manera. 
+
+La noción de resolver circuitos de ca usando fasores la propuso originalmente Charles Steinmetz en 1893. Pero antes de definir cabalmente los fasores y aplicarlos al análisis de circuitos, hay que familiarizarse por completo con los números complejos.
+
+Un número complejo z puede escribirse en forma rectangular como;
+
+z=x+jy
+
+donde j= 1_1; x es la parte real de z y y es la parte imaginaria de z. En este contexto, las variables x y y no representan una posición, como en el análisis de vectores bidimensionales, sino las partes real e imaginaria de z en el plano complejo. No obstante, cabe señalar que existen algunas semejanzas entre la manipulación de números complejos y la de vectores bidimensionales. 
+
+El número complejo z también puede escribirse en forma polar o exponencial, como
+
+![p](https://user-images.githubusercontent.com/75336529/107389263-a471fc80-6ac4-11eb-8d7d-1fdeae282007.jpg)
 
 3.-**MATERIAL Y EQUIPO REQUERIDO**
 |CANTIDAD|ELEMENTO|

@@ -12,11 +12,17 @@ General
 
 Realizar operaciones aritméticas con números complejos, tanto en su forma polar como rectangular.
 
+Conocer las propiedades de los número complejos.
+
 Especificos
 
 Resolver los ejercicios de transformación mediante números complejos
 
 Conocer los fundamentos básicos de los números complejos y comprobar las condiciones necesarias para que se cumpla.
+
+Aplicar las propiedades de los números complejos.
+
+Saber como graficae un número complejo.
 
 2.-**MARCO TEORICO**
 
